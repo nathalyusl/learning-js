@@ -6,6 +6,7 @@ alert(recipiente)
 <!--- Tipos datos --->
 
 string = "cadena de texto"
-number =
-boolean
+number = 4
+boolean = "false true"
+'0 y 1'
 
