@@ -26,3 +26,9 @@ alert = (number1 * number2);
 let nombre prompt("Cuál es tu nombre?");
 alert("Hola" + nombre);
 
+<!-- Operadores de Asignación -->
+
+x = y;
+x += y "x = x + y";
+x -= y "x = x - y"
+x *= y "x = x + y"
