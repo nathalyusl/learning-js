@@ -28,10 +28,13 @@ alert("Hola" + nombre);
 
 <!-- Operadores de Asignación -->
 
-x = y;
+/* x = y;
 x += y "x = x + y";
 x -= y "x = x - y";
 x *= y "x = x * y";
 x /= y "x = x / y";
 x %= y "x = x % y";
-x **= y "x = x ** y";
+x **= y "x = x ** y"; */
+
+
+
