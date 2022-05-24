@@ -12,7 +12,7 @@ boolean = "false true";
 
 let number;
 number = 4;
-const = "usl"
+// const = "usl"
 
 let number1, number2, number3;
 
@@ -23,7 +23,7 @@ let number = null;
 
 alert = (number1 * number2);
 
-let nombre prompt("Cuál es tu nombre?");
+// let nombre prompt("Cuál es tu nombre?");
 alert("Hola" + nombre);
 
 <!-- Operadores de Asignación -->
